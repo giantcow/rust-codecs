@@ -1,9 +1,10 @@
 [package]
 name = "h264-enc"
+keywords = ["video", "media", "encoder", "h264"]
+description = "An implementation of the h264 encoding standard"
 version.workspace = true
 authors.workspace = true
 repository.workspace = true
 license.workspace = true
-keywords = ["video", "media", "encoder", "h264"]
 
 [dependencies]

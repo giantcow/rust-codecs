@@ -1,9 +1,10 @@
 [package]
 name = "h264-dec"
+keywords = ["video", "media", "decoder", "h264"]
+description = "An implementation of the h264 decoding standard"
 version.workspace = true
 authors.workspace = true
 repository.workspace = true
 license.workspace = true
-keywords = ["video", "media", "decoder", "h264"]
 
 [dependencies]
