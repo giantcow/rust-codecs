@@ -1,0 +1,9 @@
+[package]
+name = "h264-enc"
+version.workspace = true
+authors.workspace = true
+repository.workspace = true
+license.workspace = true
+keywords = ["video", "media", "encoder", "h264"]
+
+[dependencies]

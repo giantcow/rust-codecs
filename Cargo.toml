@@ -1,0 +1,10 @@
+[workspace]
+members = ["h264-dec", "h264-enc"]
+resolver = "2"
+
+[workspace.package]
+version = "0.0.0"
+edition = "2021"
+authors = ["Kayo <kayo@giantcow.dev>"]
+repository = "https://github.com/giantcow/rust-codecs"
+license = "Apache-2.0"
